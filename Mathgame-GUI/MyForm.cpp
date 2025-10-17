@@ -1,3 +1,11 @@
+/******************************************************************************
+*  File Name:    MyForm.cpp
+*  Author:       Raashtra KC
+*  Date:         2022-10-25
+*  Language:     C++
+*  Notes:        Requires the class files in /lib to compile.
+******************************************************************************/
+
 #include "MyForm.h"
 
 using namespace System;
